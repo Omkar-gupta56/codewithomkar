@@ -1,4 +1,5 @@
 # codewithomkar
 This is my first github repository
-<br>
-Author name - Omkar Gupta
+<div>
+  Author name - Omkar Gupta
+</div>
